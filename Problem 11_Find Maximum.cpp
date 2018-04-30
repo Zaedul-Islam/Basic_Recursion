@@ -1,5 +1,5 @@
 /*
-Problem 11_Find Max.cpp
+Problem 11_Find Maximum.cpp
 Suppose you are given an array of integers in an arbitrary order.
 Write a recursive solution to find the maximum element from the array.
 */
