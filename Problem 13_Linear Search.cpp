@@ -5,6 +5,7 @@ Input format: first n, the number of elements. Then n integers. Then, q, number 
 Output format: for each of the q integers, print its index (within 1 to n) in the array or
 print 'not found', whichever is appropriate.
 */
+
 #include <bits/stdc++.h>
 using namespace std;
 const int SIZE = 100;
