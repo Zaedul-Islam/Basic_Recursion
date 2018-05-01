@@ -64,6 +64,6 @@ Input:
 2
 5 9
 Output:
-not found
-1
+Not found
+2
 */
