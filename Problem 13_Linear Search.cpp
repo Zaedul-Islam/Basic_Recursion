@@ -3,7 +3,7 @@ Problem 13_Linear Search.cpp
 Implement linear search recursively, i.e. given an array of integers, find a specific value from it.
 Input format: first n, the number of elements. Then n integers. Then, q, number of query, then q integers.
 Output format: for each of the q integers, print its index (within 1 to n) in the array or
-print 'not found', whichever is appropriate.
+print 'Not found', whichever is appropriate.
 */
 
 #include <bits/stdc++.h>
